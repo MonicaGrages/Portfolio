@@ -2,4 +2,4 @@
 
 [Click here to see my live portfolio](http://monicagrages.bitballoon.com/)
 
-![alt text](http://i.imgur.com/hLdNRvk.png "Portfolio Site Screenshot")
+![Portfolio Site Screenshot](http://i.imgur.com/y37BcyU.png "Portfolio Site Screenshot")
