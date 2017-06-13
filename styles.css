@@ -66,6 +66,10 @@ h1 {
   background-image: url(http://i.imgur.com/oN14X0h.png);
 }
 
+#project-4 {
+  background-image: url(http://i.imgur.com/PkhQgYl.png);
+}
+
 .projects {
   background-position: center;
   background-size: cover;
@@ -84,7 +88,6 @@ h1 {
 
 @media screen and (max-width: 815px) {
   .page-header {
-/*    background-color: red;*/
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
