@@ -9,7 +9,7 @@ body {
   justify-content: space-between;
   background-color: black;
   color: white;
-  border-bottom: 6px solid #a8a8a8;
+  border-bottom: 6px solid #00b3f4;
   padding: 0 20px;
   transition: border-color 1.5s, background-color 1.5s, color 1.5s;
   -webkit-transition: border-color 1.5s, background-color 1.5s, color 1.5s;
@@ -30,7 +30,7 @@ body {
 
 .header-nav li a {
   text-decoration: none;
-  color: #a8a8a8;
+  color: #a8a8a8; /*light gray*/
   font-size: 20px;
   font-weight: 900;
   transition: color 1.5s;
@@ -38,7 +38,7 @@ body {
 }
 
 .header-nav li a:hover {
-  color: #00b3f4;
+  color: #00b3f4; /*cerulean*/
 }
 
 li + li {
@@ -83,6 +83,7 @@ h1 {
 .projects {
   background-position: center;
   background-size: cover;
+  box-sizing: content-box;
   height: 320px;
   width: 320px;
   margin: 50px;
@@ -95,7 +96,7 @@ h1 {
 
 .projects:hover {
   filter: none;
-  border-color: #00b3f4
+  border-color: #00b3f4; /*cerulean*/
 }
 
 @media screen and (max-width: 815px) {
