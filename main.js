@@ -12,7 +12,6 @@
 //   };
 //   $('.page-header').css('justify-content', 'space-between');
 // });
-// //on hover change screenshots from grayscale to color and use animate to change opacity over a few ms?
 
 
 
