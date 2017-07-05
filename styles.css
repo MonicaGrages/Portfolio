@@ -99,6 +99,10 @@ h1 {
   border-color: #00b3f4; /*cerulean*/
 }
 
+.projects_on_header_hover {
+  filter: none;
+}
+
 @media screen and (max-width: 815px) {
   .page-header {
     flex-direction: column;
