@@ -37,9 +37,12 @@ body {
   -webkit-transition: color 1.5s;
 }
 
+.header-nav li a:hover {
+  font-weight: 900;
+}
+
 .header-nav li a.nav-link-blue {
   color: #333a3e;
-  font-weight: 900;
 }
 
 li + li {
