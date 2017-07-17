@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Nixie One', cursive;
+  font-family: 'Rubik', sans-serif;
 }
 
 .page-header {
@@ -32,14 +32,15 @@ body {
 .header-nav li a {
   text-decoration: none;
   color: white;
-  font-size: 20px;
+  font-size: 40px;
   font-weight: 300;
   transition: color 1.5s;
   -webkit-transition: color 1.5s;
 }
 
-.header-nav li a:hover {
-  font-weight: 900;
+
+.header-square-link:hover {
+  color: #6ab29f;
 }
 
 .header-nav li a.nav-link-blue {
@@ -82,9 +83,9 @@ h1 {
   height: 370px;
 }
 
-#project-1 {
+/*#project-1 {
   background-image: url(http://i.imgur.com/9vlHaRC.png);
-}
+}*/
 
 #project-2 {
   background-image: url(http://i.imgur.com/9Vcjk4T.png);
@@ -107,7 +108,7 @@ h1 {
 }
 
 #project-6 {
-  background-image: url(http://i.imgur.com/fTKQw7b.png);
+  background-image: url(http://i.imgur.com/pujWpW1.png);
 }
 
 
