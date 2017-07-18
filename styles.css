@@ -185,6 +185,7 @@ h1 {
 
 .about_me_scroll_tag{
   color: white;
+  font-family: 'Itim', cursive;
 }
 
 .scroll-link{
@@ -203,10 +204,12 @@ h1 {
   background-color: #6ab29f;
   color: white;
   font-family: 'Rubik', sans-serif;
-  font-size: 17px;
+  font-size: 25px;
 }
 
 .about-me-paragraph{
+  /*font-family: 'Patrick Hand', cursive;*/
+  font-family: 'Itim', cursive;
   padding-right: 50px;
   padding-left: 50px;
 }
