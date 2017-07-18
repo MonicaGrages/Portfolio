@@ -218,11 +218,13 @@ h1 {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  padding: 30px;
 }
 
 .language-icon{
   height: 90px;
   filter: grayscale(100);
+  margin: 10px;
 }
 
 .footer{
@@ -257,7 +259,7 @@ h1 {
   .projects {
     filter: none;
   }
-  .home_page_scroll_tag{
+  .scroll-link{
     display: none;
   }
   .footer{
