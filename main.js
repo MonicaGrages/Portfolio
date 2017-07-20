@@ -11,7 +11,7 @@ $(document).ready (function() {
   $('.image-container').on('mouseover', function(event) {
       var parent = $(this).parent();
       $('.nav').addClass('visibility-hidden');
-      // parent.siblings().addClass('short-header');
+      // parent.siblings().addClass('smaller-project');
 
     });
 
